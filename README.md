@@ -8,8 +8,10 @@ Uses of WinPE:<br/>
 - Make changes to the Windows OS, when needed<br/>
 - Perform Recovery operations<br/>
 - Recover data from unbootable devices<br/>
-- And more…<br/><br/>
+- And more…<br/>
 
+The Project is on TheOven-Forum:  http://theoven.org/index.php?topic=2421.0 <br/>
+Downloads Page: http://win10se.cwcodes.net/Compressed/index.php <br/><br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")<br/><br/>
 
@@ -26,8 +28,5 @@ Uses of WinPE:<br/>
 - Windows 10 1809 (October 2018 Update)<br/>
 - Windows 10 1903 (May 2019 Update)<br/>
 - Windows 10 1909 (Nov 2019 Update)<br/>
-
-TheOven-Forum:  http://theoven.org/index.php?topic=2421.0 <br/>
-Downloads Page: http://win10se.cwcodes.net/Compressed/index.php <br/>
 
 Have Fun :)
