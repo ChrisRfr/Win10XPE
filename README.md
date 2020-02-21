@@ -8,7 +8,7 @@ Uses of WinPE:<br/>
 - Make changes to the Windows OS, when needed<br/>
 - Perform Recovery operations<br/>
 - Recover data from unbootable devices<br/>
-- And more…<br/>
+- And more…<br/><br/>
 
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")
