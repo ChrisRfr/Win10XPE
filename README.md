@@ -27,4 +27,7 @@ Uses of WinPE:<br/>
 - Windows 10 1903 (May 2019 Update)<br/>
 - Windows 10 1909 (Nov 2019 Update)<br/>
 
+TheOven-Forum:  http://theoven.org/index.php?topic=2421.0 <br/>
+Downloads Page: http://win10se.cwcodes.net/Compressed/index.php <br/>
+
 Have Fun :)
