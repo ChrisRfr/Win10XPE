@@ -13,13 +13,14 @@ Uses of WinPE:<br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")
 
-Win10XPE is a complete project based on Win10 Recovery Environment with many windows features added. Based on a new Concept, its main objective is to be simple, user-friendly and to be as fast as possible. Use the many XPE plugins available to customize your build to your taste.<br/><br/>
+
+**Win10XPE** is a complete project based on Win10 Recovery Environment with many windows features added. Based on a new Concept, its main objective is to be simple, user-friendly and to be as fast as possible. Use the many XPE plugins available to customize your build to your taste.<br/><br/>
 
 ![Alt text](/Images/Win10XPE_Main.png?raw=true "Win10XPE_Main")
 
 ![Alt text](/Images/Win10XPE_BuildCore.png?raw=true "Win10XPE_BuildCore")
 
-Win10XPE supports Windows 10 original x64 or x86 ISO sources:<br/>
+**Win10XPE** supports Windows 10 original x64 or x86 ISO sources:<br/>
 - Windows 10 1709 (Fall Creators Update)<br/>
 - Windows 10 1803 (Spring Creators Update)<br/>
 - Windows 10 1809 (October 2018 Update)<br/>
