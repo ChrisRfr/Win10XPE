@@ -21,7 +21,14 @@ It is also on TenForums Forum: [Win10XPE - Build Your Own Rescue Media](https://
 
 ![Alt text](/Images/Win10XPE_Main.png?raw=true "Win10XPE_Main")
 
-![Alt text](/Images/Win10XPE_BuildCore.png?raw=true "Win10XPE_BuildCore")
+![Alt text](/Images/Win10XPE_BuildCore.png?raw=true "Win10XPE_BuildCore")<br/>
+
+**Note** By its nature, it uses programs or applications at the core of Windows<br/>
+Some AntiViruses mark them as positive. These are false alarms<br/>
+An example with NiSoft's ProduKey to Recover lost Windows product key, 12 engines detected this file as Unsafe or Hacktool, that's not true<br/>
+You can read this blog written by the same author as produKey: [Antivirus companies cause a big headache to small developers](https://blog.nirsoft.net/2009/05/17/antivirus-companies-cause-a-big-headache-to-small-developers/)<br/>
+Blog written in 2009, the situation did not get any better<br/>
+It is advised to put an exclusion on the Win10XPE folder<br/><br/>
 
 **Win10XPE** supports Windows 10 original x64 or x86 ISO sources:<br/>
 - Windows 10 1709 (Fall Creators Update)<br/>
