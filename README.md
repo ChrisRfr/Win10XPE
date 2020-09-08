@@ -12,7 +12,7 @@ Uses of WinPE:<br/>
 
 The Project is on TheOven.org Forum:  [Win10XPE Project](http://theoven.org/index.php?topic=2421.0) <br/>
 It is also on tenforums Forum: [Win10XPE - Build Your Own Rescue Media](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media.html) with updates and additional 3rd party Apps<br/>
-Downloads Page: [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php) <br/><br/>
+[Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php) <br/><br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")<br/><br/>
 
