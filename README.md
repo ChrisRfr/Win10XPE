@@ -35,9 +35,10 @@ I can only advise you to put an exclusion on the Win10XPE folder.<br/><br/>
 **Win10XPE** supports Windows 10 original x64 or x86 ISO sources:<br/>
 - Windows 10 1709 (Fall Creators Update)<br/>
 - Windows 10 1803 (Spring Creators Update)<br/>
-- Windows 10 1809 (October 2018 Update)<br/>
+- Windows 10 1809 (Oct 2018 Update)<br/>
 - Windows 10 1903 (May 2019 Update)<br/>
 - Windows 10 1909 (Nov 2019 Update)<br/>
 - Windows 10 2004 (May 2020 Update)<br/>
+- Windows 10 2009 (Oct 2020 Update)<br/>
 
 Have Fun :)
