@@ -39,7 +39,7 @@ I can only advise you to put an exclusion on the Win10XPE folder.<br/><br/>
 - Windows 10 1809 (Oct 2018 Update)<br/>
 - Windows 10 1903 (May 2019 Update)<br/>
 - Windows 10 1909 (Nov 2019 Update)<br/>
-- Windows 10 2004 (May 2020 Update)<br/>
-- Windows 10 2009 (Oct 2020 Update)<br/>
+- Windows 10 20H1 (May 2020 Update)<br/>
+- Windows 10 20H2 (Oct 2020 Update)<br/>
 
 Have Fun :)
