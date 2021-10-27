@@ -1,5 +1,5 @@
 # Win10XPE
-Win10XPE will help you build a lightweight desktop Windows Preinstallation Environment (WinPE) for performing tasks or troubleshooting a Windows OS while it is Offline or for installing a Windows OS. It can be booted via USB drive, CD-ROM, or hard disk.
+Win10XPE will help you build a lightweight desktop Windows 10 or Windows 11 Preinstallation Environment (WinPE) for performing tasks or troubleshooting a Windows OS while it is Offline or for installing a Windows OS. It can be booted via USB drive, CD-ROM, or hard disk.
 
 Uses of WinPE:<br/>
 - Set up your hard drive and prepare it for installing a Windows OS<br/>
