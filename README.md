@@ -1,5 +1,5 @@
 # Win10XPE
-Win10XPE will help you build a lightweight desktop Windows Preinstallation Environment (WinPE) for performing tasks or troubleshooting a Windows OS while it is Offline or for installing a Windows OS. It can be booted via USB drive, CD-ROM, or hard disk.
+Win10XPE will help you build a lightweight desktop Windows 10 or Windows 11 Preinstallation Environment (WinPE) for performing tasks or troubleshooting a Windows OS while it is Offline or for installing a Windows OS. It can be booted via USB drive, CD-ROM, or hard disk.
 
 Uses of WinPE:<br/>
 - Set up your hard drive and prepare it for installing a Windows OS<br/>
@@ -10,15 +10,21 @@ Uses of WinPE:<br/>
 - Recover data from unbootable devices<br/>
 - And more…<br/>
 
-The Project is on TheOven.org Forum:  [Win10XPE Project](http://theoven.org/index.php?topic=2421.0) <br/>
-[Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php) <br/>
-It is also on TenForums Forum: [Win10XPE - Build Your Own Rescue Media](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media.html) with updates and additional 3rd party Apps<br/><br/>
+The Project was on TheOven.org Forum: [Win10XPE Project](http://theoven.org/index.php?topic=2421.0) - or rather on the old [Win10XPE Project](https://old.theoven.org/index666e.html?board=39.0) forum <br/>
 
+The Project is also on TenForums Forum: [Win10XPE - Build Your Own Rescue Media](https://www.tenforums.com/software-apps/117664-win10xpe-build-your-own-rescue-media.html)<br/>
+Followed by [Win10XPE - Build Your Own Rescue Media (2)](https://www.tenforums.com/software-apps/182581-win10xpe-build-your-own-rescue-media-2-a.html)<br/>
+with updates and additional 3rd party Apps<br/>
+
+**Download**
+[Mega Win10XPE Download](https://mega.nz/file/eeI13AAJ#mqCH9oUk6daSavgLKC6cTbF_Apa5yguSw-7rU7bFPys) - it was on old [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php), downloaded more than 300000 times over there <br/>
+
+**Support Win10XPE** [Donate](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9WZ5EDAMPH6SE) <br/><br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")<br/><br/>
 
 
-**Win10XPE** is a complete project based on Windows 10 or Windows 11 Recovery Environment with many windows features added. Based on a new Concept, its main objective is to be simple, user-friendly and to be as fast as possible. Use the many XPE plugins available to customize your build to your taste.<br/><br/>
+**Win10XPE** is a complete project based on **Windows 10** or **Windows 11** Recovery Environment with many windows features added. Based on a new Concept, its main objective is to be simple, user-friendly and to be as fast as possible. Use the many XPE plugins available to customize your build to your taste.<br/><br/>
 
 ![Alt text](/Images/Win10XPE_Main.png?raw=true "Win10XPE_Main")
 
