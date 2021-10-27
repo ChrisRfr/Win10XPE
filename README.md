@@ -1,4 +1,7 @@
 # Win10XPE
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9WZ5EDAMPH6SE)
+
 Win10XPE will help you build a lightweight desktop Windows 10 or Windows 11 Preinstallation Environment (WinPE) for performing tasks or troubleshooting a Windows OS while it is Offline or for installing a Windows OS. It can be booted via USB drive, CD-ROM, or hard disk.
 
 Uses of WinPE:<br/>
@@ -17,9 +20,7 @@ Followed by [Win10XPE - Build Your Own Rescue Media (2)](https://www.tenforums.c
 with updates and additional 3rd party Apps<br/>
 
 **Download**
-[Mega Win10XPE Download](https://mega.nz/file/eeI13AAJ#mqCH9oUk6daSavgLKC6cTbF_Apa5yguSw-7rU7bFPys) - it was on old [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php), downloaded more than 300000 times over there <br/>
-
-**Support Win10XPE** [Donate](https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=9WZ5EDAMPH6SE) <br/><br/>
+[Mega Win10XPE Download](https://mega.nz/file/eeI13AAJ#mqCH9oUk6daSavgLKC6cTbF_Apa5yguSw-7rU7bFPys) - it was on old [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php), downloaded more than 300000 times over there <br/><br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")<br/><br/>
 
