@@ -51,5 +51,6 @@ I can only advise you to put an exclusion on the Win10XPE folder.<br/><br/>
 - Windows 10 20H1 (May 2020 Update)<br/>
 - Windows 10 20H2 (Oct 2020 Update)<br/>
 - Windows 11 (22000.194)<br/>
+- Windows 11 Update (22000.318)<br/>
 
 Have Fun :)
