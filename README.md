@@ -42,7 +42,7 @@ It shouldn't be like that and it's really frustrating. The work of AV companies 
 They should be reprimanded for this, we are their customers.<br/>
 I can only advise you to put an exclusion on the Win10XPE folder.<br/><br/>
 
-**Win10XPE** supports Windows 10 original x64 or x86 ISO sources:<br/>
+**Win10XPE** supports Windows 10 and Windows 11 original x64 or x86 ISO sources:<br/>
 - Windows 10 1709 (Fall Creators Update)<br/>
 - Windows 10 1803 (Spring Creators Update)<br/>
 - Windows 10 1809 (Oct 2018 Update)<br/>
