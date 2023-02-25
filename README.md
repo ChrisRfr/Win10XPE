@@ -19,8 +19,7 @@ The Project is also on TenForums Forum: [Win10XPE - Build Your Own Rescue Media]
 Followed by [Win10XPE - Build Your Own Rescue Media (2)](https://www.tenforums.com/software-apps/182581-win10xpe-build-your-own-rescue-media-2-a.html)<br/>
 with updates and additional 3rd party Apps<br/>
 
-**Download**
-[Mega Win10XPE Download](https://mega.nz/file/eeI13AAJ#mqCH9oUk6daSavgLKC6cTbF_Apa5yguSw-7rU7bFPys) - it was on old [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php), downloaded more than 300000 times over there <br/><br/>
+It was on old [Win10XPE Downloads Page](http://win10se.cwcodes.net/Compressed/index.php), downloaded more than 400000 times over there <br/><br/>
 
 ![Alt text](/Images/Win10XPE.png?raw=true "Win10XPE")<br/><br/>
 
