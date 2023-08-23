@@ -49,7 +49,7 @@ I can only advise you to put an exclusion on the Win10XPE folder.<br/><br/>
 - Windows 10 20H1 (May 2020 Update)<br/>
 - Windows 10 20H2 (Oct 2020 Update)<br/>
 - Windows 11 (22000.194, 22000.318)<br/>
-- Windows 11 22H2 (22621.382, 22621.525) - Under 22H2, the Sound requires Admin account login<br/><br/>
+- Windows 11 22H2 (22621.382, 22621.525, 22621.1702) - Under 22H2, the Sound requires Admin account login<br/><br/>
 **Preferred ISO:** Windows 10 20H1 (Build 19041.264 - 2020.05)<br/>
 
 Have Fun :blush:
